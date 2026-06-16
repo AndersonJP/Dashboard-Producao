@@ -1,5 +1,5 @@
 # 📊 Dashboard de Producao - Hashtag
-<img width="1612" height="711" alt="image" src="https://gufoweb.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-15-162919.png" />
+<img src="https://gufoweb.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-16-171526.png" />
 
 ---
 
@@ -11,10 +11,14 @@ Projeto desenvolvido para estudo
 
 # 🎯 Problema de Negócio
 
-- Quanto estamos faturando?
-- Quais produtos vendem mais?
-- Quais regiões possuem melhor desempenho?
-- Como está a evolução das vendas ao longo do tempo?
+ - Estamos produzindo o suficiente?
+ - Onde estamos perdendo produção?
+ - Quanto estamos rejeitando?
+ - Quanto tempo ficamos parados?
+ - Quem produz melhor?
+ - Como está a qualidade?
+ - Quais meses são mais críticos?
+ - Qual a eficiência operacional da fábrica?
 
 ---
 
